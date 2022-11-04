@@ -1,0 +1,1 @@
+# Clear_old_file_and_empty_folder_script
